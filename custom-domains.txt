@@ -1,7 +1,5 @@
 # Facebook Crap
-scontent-iad3-1.xx.fbcdn.net
-scontent-iad3-2.xx.fbcdn.net
- web-fallback.facebook.com
+web-fallback.facebook.com
 agotraffic-nts-ip-assoc.xy.fbcdn.net
 agotraffic-nts-ip-assoc.xz.fbcdn.net
 web-fallback.facebook.com
